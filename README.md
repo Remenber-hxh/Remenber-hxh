@@ -1,25 +1,25 @@
 # Vesper
 
-全栈开发，网名弒月灼红。
+Full-stack developer, also known as 弒月灼红 online.
 
-### 能力与工作
-- 全栈：Go、Python 后端，Web 前端和移动端页面
-- AI 应用：把大模型接进实际业务，做过巡检助手
-- 自动化：用 Python、PowerShell 处理表格、文档和报表
-- 网络与部署：Cloudflare、服务器、网络配置
+### Skills & Work
+- Full-stack: Go and Python backends, web front ends and mobile pages
+- AI applications: bringing LLMs into real business workflows, including an AI inspection assistant
+- Automation: Python and PowerShell scripts for spreadsheets, documents and reports
+- Networking & deployment: Cloudflare, servers, network configuration
 
-### 在别处找到我
-| 平台 | 名字 |
+### Find Me Elsewhere
+| Platform | Name |
 |---|---|
-| B 站 | [弒月灼红](https://space.bilibili.com/36256771) |
+| Bilibili | [弒月灼红](https://space.bilibili.com/36256771) |
 | CSDN | [弒月灼红](https://blog.csdn.net/qq_61415450) |
-| 微信公众号 | 弒月灼红 |
+| WeChat Official Account | 弒月灼红 |
 
-### 在玩
-- 魂类：艾尔登法环
-- 推理：弹丸论破系列
-- 肉鸽：以撒的结合、Hero Siege
-- 节奏：冰与火之舞、Muse Dash
-- 策略与生存：文明 VI、僵尸毁灭工程
-- 双人合作：双人成行、胡闹厨房
-- 射击：泰坦陨落 2
+### Playing
+- Soulslike: Elden Ring
+- Mystery: Danganronpa series
+- Roguelike: The Binding of Isaac, Hero Siege
+- Rhythm: A Dance of Fire and Ice, Muse Dash
+- Strategy & survival: Civilization VI, Project Zomboid
+- Co-op: It Takes Two, Overcooked
+- Shooter: Titanfall 2
